@@ -108,3 +108,4 @@ RECORD.md
 package-lock.json
 package.json
 prisma.yml
+dontUseFragment.js
